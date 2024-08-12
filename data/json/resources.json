@@ -33,5 +33,10 @@
     "name": "SERP Checker",
     "description": "Localized Google Search Results Tool | SERP Checker",
     "url": "https://serpchecker.girff.com/"
+  },
+  {
+    "name": "HF-HUB",
+    "description": "Share and discover more about AI with social posts from the community.huggingface/OpenAi",
+    "url": "https://posts.aidevin.dev/"
   }
 ]
