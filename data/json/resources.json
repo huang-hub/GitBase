@@ -38,5 +38,10 @@
     "name": "HF-HUB",
     "description": "Share and discover more about AI with social posts from the community.huggingface/OpenAi",
     "url": "https://posts.aidevin.dev/"
+  },
+  {
+    "name": "Girff",
+    "description": "girff",
+    "url": "\thttps://girff.com/"
   }
 ]
